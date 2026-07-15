@@ -1,41 +1,48 @@
-# Hi there, I'm Zunera Mujahid 👋
+# Hi there 👋
+
+I'm **Zunera Mujahid**
+
+🎓 BS Computer Science Student  
+💻 Aspiring Full-Stack Developer  
+🤖 AI/ML Enthusiast
 
 ## 👩‍💻 About Me
 
-- 🎓 Third-year BS Computer Science student at the University of Central Punjab (UCP)
-- 💻 Interested in Full-Stack Web Development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🌱 Currently working on improving my software development skills
+- 🎓 BS Computer Science student at the University of Central Punjab (UCP)
+- 💻 Passionate about Full-Stack Web Development
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently building full-stack web applications and expanding my AI/ML knowledge.
 - 🎯 Seeking Software Engineering and Full-Stack Development Internship opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- C
-- C++
+**💻 Languages**
 - JavaScript
 - Python
 - SQL
+- C++
+- C
 
-**Frontend**
+**🌐 Frontend**
 - HTML5
 - CSS3
 - EJS
 
-**Backend**
+**⚙️ Backend**
 - Node.js
 - Express.js
 
-**Database**
+**🗄️ Database**
 - MongoDB
 - MySQL
 
-**Tools**
+**🛠️ Tools**
 - Git
 - GitHub
 - Cisco Packet Tracer
+- VS Code
 
 ---
 
@@ -51,7 +58,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/zunera-mujahid
+- LinkedIn: [linkedin.com/in/zunera-mujahid](https://www.linkedin.com/in/zunera-mujahid)
 
 ---
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me on LinkedIn.
